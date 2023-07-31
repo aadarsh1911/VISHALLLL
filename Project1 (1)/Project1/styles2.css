@@ -1,0 +1,54 @@
+
+  
+  .signin-container {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .continue-button {
+    background-color: orange;
+    color: black;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .forgot-password-link {
+    display: block;
+    text-align: center;
+    color: #0099FF;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  
